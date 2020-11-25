@@ -1,455 +1,455 @@
-,Especie,Long,Lat,BD,colecta,env_group_3,Especie,_Geoform MX
-1,albilanata,-98.110123,18.246991,gbif,NA,Sto_domingo,albilanata,Montanas de plegamiento
-2,albilanata,-97.812778,17.838889,gbif,NA,M_conspicua,albilanata,Sistema carstico
-3,albilanata,-99.071996,17.637558,gbif,NA,Albilanata,albilanata,Sierras
-4,albilanata,-97.130273,17.335774,gbif,NA,Oaxacana,albilanata,Montanas de plegamiento
-5,albilanata,-97.199203,17.693317,gbif,NA,Oaxacana,albilanata,Sistema fluvial
-6,albilanata,-96.338711,16.561306,gbif,NA,Tehuantepec,albilanata,Sistema fluvial
-7,albilanata,-96.350351,16.535162,gbif,NA,M_meissneri,albilanata,Relieve volcanico
-8,albilanata,-97.858769,17.50065,gbif,NA,Oaxacana,albilanata,Relieve volcanico
-9,albilanata,-96.488845,17.257653,gbif,NA,Oaxacana,albilanata,Montanas de plegamiento
-10,albilanata,-96.782398,17.190781,gbif,NA,Huauclilla,albilanata,Sistema fluvial
-11,albilanata,-97.0775,16.541389,gbif,NA,Oaxacana,albilanata,Sistema carstico
-12,albilanata,-96.949806,17.585442,gbif,NA,Huauclilla,albilanata,Sistema carstico
-13,albilanata,-96.92516,17.370764,gbif,NA,Oaxacana,albilanata,Montanas de plegamiento
-14,albilanata,-99.449637,17.434344,gbif,NA,Albilanata,albilanata,Sistema carstico
-15,albilanata,-97.085307,17.469148,gbif,NA,Oaxacana,albilanata,Sistema fluvial
-16,albilanata,-97.0855,17.462142,gbif,NA,Oaxacana,albilanata,Sierras
-17,albilanata,-97.320934,17.725252,gbif,NA,Oaxacana,albilanata,Montanas de plegamiento
-18,albilanata,-96.275859,16.866561,gbif,NA,Oaxacana,albilanata,Sistema carstico
-19,albilanata,-96.275628,16.86652,gbif,NA,Oaxacana,albilanata,Sistema carstico
-20,albilanata,-96.305781,16.859863,gbif,NA,Oaxacana,albilanata,Relieve volcanico
-21,albilanata,-98.464112,17.868763,gbif,NA,Albilanata,albilanata,Montanas de plegamiento
-22,albilanata,-96.490591,17.255614,gbif,NA,Oaxacana,albilanata,Sistema fluvial
-23,albilanata,-97.531915,17.149796,gbif,NA,Oaxacana,albilanata,Montanas de plegamiento
-24,albilanata,-99.497101,18.64901,gbif,NA,Albilanata,albilanata,Sistema carstico
-25,albilanata,-98.390343,17.753091,gbif,NA,Albilanata,albilanata,Montanas de plegamiento
-26,albilanata,-96.952951,17.588672,gbif,NA,Huauclilla,albilanata,Sistema carstico
-27,albilanata,-99.502617,18.657801,gbif,NA,Albilanata,albilanata,Sistema carstico
-28,albilanata,-96.984925,16.657309,gbif,NA,Oaxacana,albilanata,Sistema fluvial
-29,albilanata,-93.114628,16.621148,gbif,NA,Tehuantepec,albilanata,Sistema fluvial
-30,albilanata,-99.50695,18.666646,gbif,NA,Albilanata,albilanata,Sistema carstico
-31,albilanata,-99.517937,18.669898,gbif,NA,Albilanata,albilanata,Sistema carstico
-32,albilanata,-99.492187,18.672593,gbif,NA,Albilanata,albilanata,Sierras
-33,albilanata,-99.499741,18.694616,gbif,NA,Albilanata,albilanata,Sistema carstico
-34,albilanata,-99.510319,18.668412,gbif,NA,Albilanata,albilanata,Sistema carstico
-35,albilanata,-97.271806,17.6855,gbif,NA,Oaxacana,albilanata,Sistema carstico
-36,albilanata,-97.245097,17.695323,gbif,NA,Oaxacana,albilanata,Sistema carstico
-37,albilanata,-99.525404,18.662347,gbif,NA,Albilanata,albilanata,Sistema carstico
-38,albilanata,-97.981396,17.5241,gbif,NA,Oaxacana,albilanata,Montanas de plegamiento
-39,albilanata,-96.629508,16.294656,gbif,NA,Oaxacana,albilanata,Sistema carstico
-40,albilanata,-96.930951,17.439065,gbif,NA,Oaxacana,albilanata,Sierras
-41,albilanata,-96.940127,17.484824,gbif,NA,Oaxacana,albilanata,Montanas de plegamiento
-42,albilanata,-99.524924,18.69738,gbif,NA,Albilanata,albilanata,Sierras
-43,albilanata,-97.944283,17.70238,gbif,NA,Sto_domingo,albilanata,Sistema carstico
-44,albilanata,-96.90965,17.053715,gbif,NA,Oaxacana,albilanata,Sierras
-45,albilanata,-97.242737,18.156291,gbif,NA,M_meissneri,albilanata,Sistema carstico
-46,albilanata,-96.10027,16.66166,gbif,NA,Tehuantepec,albilanata,Relieve volcanico
-47,albilanata,-98.017745,17.643565,gbif,NA,Sto_domingo,albilanata,Sierras
-48,albilanata,-98.04599,17.636128,gbif,NA,Sto_domingo,albilanata,Sierras
-49,albilanata,-98.041745,17.949431,gbif,NA,Sto_domingo,albilanata,Relieve volcanico
-50,albilanata,-95.199418,16.349385,gbif,NA,Tehuantepec,albilanata,Llanuras lacustres y eolicas
-51,albilanata,-96.945556,17.567528,gbif,NA,Huauclilla,albilanata,Sistema carstico
-52,albilanata,-103.926966,19.550924,gbif,NA,Reppenhagenii,albilanata,Montanas de plegamiento
-53,albilanata,-98.647527,18.39525,gbif,NA,Albilanata,albilanata,Sistema carstico
-54,albilanata,-98.645552,18.39328,gbif,NA,Albilanata,albilanata,Sistema carstico
-55,albilanata,-98.645552,18.394013,gbif,NA,Albilanata,albilanata,Sistema carstico
-56,albilanata,-98.654235,18.399937,gbif,NA,Albilanata,albilanata,Sistema fluvial
-57,albilanata,-97.154975,17.720646,gbif,NA,Oaxacana,albilanata,Sistema fluvial
-58,albilanata,-95.015737,16.65247,gbif,NA,Tehuantepec,albilanata,Sistema fluvial
-59,albilanata,-97.52947,17.13155,gbif,NA,Oaxacana,albilanata,Montanas de plegamiento
-60,albilanata,-96.93347,17.60772,gbif,NA,Huauclilla,albilanata,Sistema carstico
-61,albilanata,-96.746341,16.841354,gbif,NA,Huauclilla,albilanata,Sistema fluvial
-62,albilanata,-96.36525,16.83638,gbif,NA,Oaxacana,albilanata,Relieve volcanico
-63,albilanata,-96.466667,16.383333,gbif,NA,M_meissneri,albilanata,Montanas de plegamiento
-64,albilanata,-98.05,17.333333,gbif,NA,Oaxacana,albilanata,Sistema fluvial
-65,albilanata,-96.8,17.3,gbif,NA,Oaxacana,albilanata,Sistema fluvial
-66,albilanata,-93.533333,16.75,gbif,NA,Tehuantepec,albilanata,Sistema carstico
-67,albilanata,-96.3,16.666667,gbif,NA,Tehuantepec,albilanata,Sistema fluvial
-68,albilanata,-96.52861,17.325,gbif,NA,Oaxacana,albilanata,Montanas de plegamiento
-69,albilanata,-96.21666,16.476667,gbif,NA,Oaxacana,albilanata,Montanas de plegamiento
-70,albilanata,-103.9,19.316666,gbif,NA,Reppenhagenii,albilanata,Montanas de plegamiento
-71,albilanata,-96.433333,16.383333,gbif,NA,M_meissneri,albilanata,Montanas de plegamiento
-72,haageana,-97.457917,18.327069,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-73,haageana,-97.457418,18.327197,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-74,haageana,-97.457803,18.327124,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-75,haageana,-97.457661,18.328593,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-76,haageana,-97.457864,18.332275,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-77,haageana,-97.458287,18.326932,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-78,haageana,-97.457273,18.327194,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-79,haageana,-97.459866,18.327215,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-80,haageana,-97.457753,18.33,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-81,haageana,-97.46907,18.330502,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-82,haageana,-97.460334,18.327191,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-83,haageana,-97.460287,18.327195,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-84,haageana,-97.45946,18.327171,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-85,haageana,-97.455853,18.326905,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-86,haageana,-97.455858,18.326874,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-87,haageana,-97.45595,18.326912,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-88,haageana,-97.458593,18.330587,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-89,haageana,-97.456223,18.327015,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-90,haageana,-97.456582,18.3306,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-91,haageana,-97.458648,18.330812,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-92,haageana,-97.459746,18.327216,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-93,haageana,-97.456861,18.327152,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-94,haageana,-97.456645,18.327099,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-95,haageana,-97.323871,17.856039,gbif,NA,Oaxacana,haageana,Montanas de plegamiento
-96,haageana,-97.460651,18.326987,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-97,haageana,-97.2769,19.441345,gbif,NA,Haageana,haageana,Montanas de plegamiento
-98,haageana,-97.428999,19.514548,gbif,NA,Haageana,haageana,Relieve volcanico
-99,haageana,-97.43763,19.508733,gbif,NA,Haageana,haageana,Relieve volcanico
-100,haageana,-97.462072,18.333679,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-101,haageana,-96.893414,16.604153,gbif,NA,Oaxacana,haageana,Sistema fluvial
-102,haageana,-97.318825,18.528913,gbif,NA,M_conspicua,haageana,Sistema fluvial
-103,haageana,-97.469383,18.3311,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-104,haageana,-97.445507,19.502476,gbif,NA,Haageana,haageana,Relieve volcanico
-105,haageana,-97.319549,17.707729,gbif,NA,Oaxacana,haageana,Sistema fluvial
-106,haageana,-97.487359,19.394898,gbif,NA,Haageana,haageana,Relieve volcanico
-107,haageana,-97.450701,19.352218,gbif,NA,Haageana,haageana,Montanas de plegamiento
-108,haageana,-97.356222,17.853157,gbif,NA,Oaxacana,haageana,Relieve volcanico
-109,haageana,-97.549863,18.274145,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-110,haageana,-97.475706,18.329069,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-111,haageana,-97.418128,18.943288,gbif,NA,Haageana,haageana,Sistema fluvial
-112,haageana,-98.06823,18.599085,gbif,NA,Sto_domingo,haageana,Sierras
-113,haageana,-97.605453,18.319358,gbif,NA,M_meissneri,haageana,Sistema fluvial
-114,haageana,-97.616505,18.308653,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-115,haageana,-97.414092,18.393919,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-116,haageana,-97.517825,18.333444,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-117,haageana,-97.912332,18.590297,gbif,NA,M_conspicua,haageana,Sistema carstico
-118,haageana,-97.466026,18.331358,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-119,haageana,-97.613554,18.432794,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-120,haageana,-97.615614,18.432143,gbif,NA,M_conspicua,haageana,Sistema fluvial
-121,haageana,-97.1851,17.85249,gbif,NA,Oaxacana,haageana,Sistema carstico
-122,haageana,-97.453603,19.33851,gbif,NA,Haageana,haageana,Relieve volcanico
-123,haageana,-97.519994,18.278058,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-124,haageana,-97.373889,17.976389,gbif,NA,Oaxacana,haageana,Montanas de plegamiento
-125,haageana,-97.443023,18.319085,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-126,haageana,-97.444409,18.384374,gbif,NA,M_meissneri,haageana,Sistema fluvial
-127,haageana,-97.373887,18.317231,gbif,NA,M_meissneri,haageana,Sistema de piedemonte
-128,haageana,-97.481346,18.280115,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-129,haageana,-97.622795,18.183729,gbif,NA,M_conspicua,haageana,Relieve volcanico
-130,haageana,-97.55957,18.325525,gbif,NA,M_meissneri,haageana,Sistema fluvial
-131,haageana,-97.412778,17.880833,gbif,NA,Oaxacana,haageana,Montanas de plegamiento
-132,haageana,-97.318047,17.762786,gbif,NA,Oaxacana,haageana,Montanas de plegamiento
-133,haageana,-97.305983,18.073063,gbif,NA,Oaxacana,haageana,Sistema carstico
-134,haageana,-97.439257,17.928038,gbif,NA,Oaxacana,haageana,Relieve volcanico
-135,haageana,-99.162486,18.744792,gbif,NA,San_angelensis,haageana,Sistema fluvial
-136,haageana,-99.047718,18.686488,gbif,NA,San_angelensis,haageana,Montanas de plegamiento
-137,haageana,-97.380001,18.312851,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-138,haageana,-97.567678,18.269278,gbif,NA,M_conspicua,haageana,Relieve volcanico
-139,haageana,-97.454164,18.329486,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-140,haageana,-97.309745,18.067554,gbif,NA,Oaxacana,haageana,Sistema carstico
-141,haageana,-97.389633,17.551781,gbif,NA,Oaxacana,haageana,Relieve volcanico
-142,haageana,-97.442862,18.327298,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-143,haageana,-97.343604,18.057471,gbif,NA,Oaxacana,haageana,Sistema carstico
-144,haageana,-97.617155,18.31587,gbif,NA,M_meissneri,haageana,Sistema fluvial
-145,haageana,-97.558445,18.277731,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-146,haageana,-97.559992,18.283966,gbif,NA,M_meissneri,haageana,Sistema fluvial
-147,haageana,-97.45816,18.332067,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-148,haageana,-97.457115,18.330141,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-149,haageana,-97.457016,18.330418,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-150,haageana,-97.456291,18.331127,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-151,haageana,-97.457016,18.33156,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-152,haageana,-97.560163,18.27333,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-153,haageana,-97.361046,17.87545,gbif,NA,Oaxacana,haageana,Sistema fluvial
-154,haageana,-97.691673,17.894515,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-155,haageana,-97.356763,18.456823,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-156,haageana,-97.415511,19.418286,gbif,NA,Haageana,haageana,Relieve volcanico
-157,haageana,-97.428628,19.514786,gbif,NA,Haageana,haageana,Relieve volcanico
-158,haageana,-97.414772,19.419206,gbif,NA,Haageana,haageana,Relieve volcanico
-159,haageana,-97.452984,18.327783,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-160,haageana,-97.754776,18.620033,gbif,NA,M_conspicua,haageana,Sistema carstico
-161,haageana,-97.434745,18.356757,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-162,haageana,-97.563064,19.344442,gbif,NA,Haageana,haageana,Relieve volcanico
-163,haageana,-97.454481,19.331691,gbif,NA,Haageana,haageana,Relieve volcanico
-164,haageana,-97.564858,19.344861,gbif,NA,Haageana,haageana,Relieve volcanico
-165,haageana,-97.269048,19.545671,gbif,NA,Haageana,haageana,Sistema fluvial
-166,haageana,-97.495942,19.359036,gbif,NA,Haageana,haageana,Relieve volcanico
-167,haageana,-97.492547,19.351892,gbif,NA,Haageana,haageana,Sistema fluvial
-168,haageana,-97.84087,17.87829,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-169,haageana,-97.496757,17.850148,gbif,NA,Oaxacana,haageana,Montanas de plegamiento
-170,haageana,-97.719335,18.067345,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-171,haageana,-97.611725,18.242501,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-172,haageana,-97.494064,18.044042,gbif,NA,M_conspicua,haageana,Relieve volcanico
-173,haageana,-97.615,18.316111,gbif,NA,M_meissneri,haageana,Sistema fluvial
-174,haageana,-97.445563,18.342407,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-175,haageana,-97.373199,18.307677,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-176,haageana,-97.546667,18.252222,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-177,haageana,-97.377319,18.317129,gbif,NA,M_meissneri,haageana,Sistema de piedemonte
-178,haageana,-97.373543,18.315174,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-179,haageana,-97.45079,18.342794,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-180,haageana,-97.680924,18.002938,gbif,NA,M_conspicua,haageana,Relieve volcanico
-181,haageana,-97.717302,18.515156,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-182,haageana,-97.511258,18.332594,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-183,haageana,-97.783292,18.487568,gbif,NA,M_conspicua,haageana,Sistema carstico
-184,haageana,-97.871223,17.956656,gbif,NA,M_conspicua,haageana,Sistema carstico
-185,haageana,-97.261264,17.693223,gbif,NA,Oaxacana,haageana,Sistema carstico
-186,haageana,-97.267639,17.692722,gbif,NA,Oaxacana,haageana,Sistema carstico
-187,haageana,-97.233056,17.677361,gbif,NA,Oaxacana,haageana,Sistema carstico
-188,haageana,-97.322651,17.723944,gbif,NA,Oaxacana,haageana,Montanas de plegamiento
-189,haageana,-97.256457,17.691261,gbif,NA,Oaxacana,haageana,Sistema carstico
-190,haageana,-97.923933,18.409924,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-191,haageana,-97.43129,18.361412,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-192,haageana,-97.319904,17.724639,gbif,NA,Oaxacana,haageana,Montanas de plegamiento
-193,haageana,-97.271806,17.6855,gbif,NA,Oaxacana,haageana,Sistema carstico
-194,haageana,-97.435413,18.378655,gbif,NA,M_meissneri,haageana,Sistema fluvial
-195,haageana,-97.448889,18.346944,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-196,haageana,-97.298286,17.736653,gbif,NA,Oaxacana,haageana,Relieve volcanico
-197,haageana,-97.477889,18.358616,gbif,NA,M_conspicua,haageana,Sistema carstico
-198,haageana,-97.249368,19.422588,gbif,NA,Haageana,haageana,Montanas de plegamiento
-199,haageana,-97.446371,18.333949,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-200,haageana,-97.626957,19.023191,gbif,NA,Haageana,haageana,Montanas de plegamiento
-201,haageana,-97.577501,18.951668,gbif,NA,Haageana,haageana,Sistema carstico
-202,haageana,-97.674074,18.438081,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-203,haageana,-97.514983,18.340366,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-204,haageana,-97.239814,17.856468,gbif,NA,Oaxacana,haageana,Sistema carstico
-205,haageana,-97.910265,18.22273,gbif,NA,Sto_domingo,haageana,Sierras
-206,haageana,-97.63291,18.286927,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-207,haageana,-97.474676,18.329232,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-208,haageana,-97.390859,18.271835,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-209,haageana,-97.64891,18.21291,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-210,haageana,-97.633786,19.020262,gbif,NA,Haageana,haageana,Montanas de plegamiento
-211,haageana,-99.173874,18.832471,gbif,NA,San_angelensis,haageana,Sistema fluvial
-212,haageana,-97.627808,19.024923,gbif,NA,Haageana,haageana,Montanas de plegamiento
-213,haageana,-97.627036,19.026093,gbif,NA,Haageana,haageana,Montanas de plegamiento
-214,haageana,-97.45766,18.33247,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-215,haageana,-97.457328,18.33125,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-216,haageana,-97.497053,18.330378,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-217,haageana,-97.680817,17.768631,gbif,NA,M_conspicua,haageana,Relieve volcanico
-218,haageana,-97.687168,17.778603,gbif,NA,M_conspicua,haageana,Sistema fluvial
-219,haageana,-97.672695,18.211564,gbif,NA,M_conspicua,haageana,Sistema carstico
-220,haageana,-97.469556,18.407306,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-221,haageana,-97.320833,17.817528,gbif,NA,Oaxacana,haageana,Montanas de plegamiento
-222,haageana,-97.484779,18.243699,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-223,haageana,-97.457107,18.330199,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-224,haageana,-97.456936,18.330403,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-225,haageana,-97.457571,18.330533,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-226,haageana,-97.4625,18.623667,gbif,NA,M_conspicua,haageana,Sistema carstico
-227,haageana,-97.571556,18.236194,gbif,NA,M_conspicua,haageana,Sistema fluvial
-228,haageana,-97.547167,18.239722,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-229,haageana,-97.458889,18.319222,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-230,haageana,-97.435861,18.375944,gbif,NA,M_meissneri,haageana,Sistema fluvial
-231,haageana,-97.47875,18.349278,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-232,haageana,-97.475361,18.36,gbif,NA,M_conspicua,haageana,Sistema carstico
-233,haageana,-97.478139,18.353806,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-234,haageana,-97.4805,18.357139,gbif,NA,M_conspicua,haageana,Sistema carstico
-235,haageana,-97.482722,18.359472,gbif,NA,M_conspicua,haageana,Sistema carstico
-236,haageana,-97.382222,18.682167,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-237,haageana,-97.453139,18.255556,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-238,haageana,-97.435528,18.232194,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-239,haageana,-97.519222,18.404472,gbif,NA,M_conspicua,haageana,Sistema fluvial
-240,haageana,-97.50025,18.26825,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-241,haageana,-97.474861,18.43075,gbif,NA,M_conspicua,haageana,Sistema fluvial
-242,haageana,-97.403889,18.706556,gbif,NA,Haageana,haageana,Montanas de plegamiento
-243,haageana,-97.408583,18.697833,gbif,NA,Haageana,haageana,Montanas de plegamiento
-244,haageana,-97.532917,18.201611,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-245,haageana,-97.466944,18.4195,gbif,NA,M_conspicua,haageana,Sistema fluvial
-246,haageana,-97.405361,18.705139,gbif,NA,Haageana,haageana,Montanas de plegamiento
-247,haageana,-97.090667,17.578083,gbif,NA,Oaxacana,haageana,Sistema carstico
-248,haageana,-97.520889,18.760194,gbif,NA,Haageana,haageana,Sistema carstico
-249,haageana,-97.556778,18.737139,gbif,NA,Haageana,haageana,Llanuras lacustres y eolicas
-250,haageana,-97.620306,18.73825,gbif,NA,M_conspicua,haageana,Sistema fluvial
-251,haageana,-97.463889,18.603833,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-252,haageana,-97.471667,18.608333,gbif,NA,M_conspicua,haageana,Sistema fluvial
-253,haageana,-97.361028,18.345306,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-254,haageana,-97.649444,18.321111,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-255,haageana,-97.590944,18.367639,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-256,haageana,-97.602583,18.366194,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-257,haageana,-97.528278,18.201,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-258,haageana,-97.633778,18.33475,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-259,haageana,-97.576222,18.347417,gbif,NA,M_meissneri,haageana,Sistema fluvial
-260,haageana,-97.456389,18.663333,gbif,NA,M_conspicua,haageana,Sistema fluvial
-261,haageana,-97.437222,18.373889,gbif,NA,M_meissneri,haageana,Sistema fluvial
-262,haageana,-97.505833,18.195833,gbif,NA,M_conspicua,haageana,Sistema fluvial
-263,haageana,-97.470556,18.590278,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-264,haageana,-97.455476,18.329937,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-265,haageana,-97.414722,18.216639,gbif,NA,M_conspicua,haageana,Sistema fluvial
-266,haageana,-97.499444,18.318917,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-267,haageana,-97.363611,18.361861,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-268,haageana,-97.38,18.317972,gbif,NA,M_meissneri,haageana,Sistema de piedemonte
-269,haageana,-97.452111,18.338806,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-270,haageana,-97.38,18.319389,gbif,NA,M_meissneri,haageana,Sistema de piedemonte
-271,haageana,-97.379722,18.311972,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-272,haageana,-97.4925,18.255361,gbif,NA,M_conspicua,haageana,Sistema fluvial
-273,haageana,-97.512389,18.402611,gbif,NA,M_conspicua,haageana,Sistema fluvial
-274,haageana,-97.484806,18.41025,gbif,NA,M_conspicua,haageana,Sistema fluvial
-275,haageana,-97.526167,18.404889,gbif,NA,M_conspicua,haageana,Sistema fluvial
-276,haageana,-97.555972,18.318083,gbif,NA,M_meissneri,haageana,Sistema carstico
-277,haageana,-97.449167,18.40475,gbif,NA,M_conspicua,haageana,Sistema fluvial
-278,haageana,-97.572444,18.39025,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-279,haageana,-97.474806,18.607111,gbif,NA,M_conspicua,haageana,Sistema fluvial
-280,haageana,-97.550083,18.250833,gbif,NA,M_meissneri,haageana,Sistema fluvial
-281,haageana,-97.53944,18.48266,gbif,NA,M_conspicua,haageana,Planicies
-282,haageana,-97.796556,17.822167,gbif,NA,M_conspicua,haageana,Sistema carstico
-283,haageana,-97.69344,18.03202,gbif,NA,M_conspicua,haageana,Relieve volcanico
-284,haageana,-97.87583,17.94036,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-285,haageana,-97.93318,18.08663,gbif,NA,Sto_domingo,haageana,Montanas de plegamiento
-286,haageana,-97.446972,18.340583,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-287,haageana,-97.448333,18.340806,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-288,haageana,-97.447333,18.340444,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-289,haageana,-97.420417,18.41925,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-290,haageana,-97.502222,18.224833,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-291,haageana,-97.449528,18.342111,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-292,haageana,-97.446583,18.337278,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-293,haageana,-97.663889,18.202778,gbif,NA,M_conspicua,haageana,Relieve volcanico
-294,haageana,-97.426111,18.320694,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-295,haageana,-97.435056,18.3235,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-296,haageana,-97.359722,18.303917,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-297,haageana,-97.448056,18.319972,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-298,haageana,-97.440556,18.316778,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-299,haageana,-97.435556,18.322583,gbif,NA,M_meissneri,haageana,Sistema fluvial
-300,haageana,-97.415278,18.228056,gbif,NA,M_conspicua,haageana,Sistema fluvial
-301,haageana,-97.415,18.215833,gbif,NA,M_conspicua,haageana,Sistema fluvial
-302,haageana,-97.296389,17.936,gbif,NA,Oaxacana,haageana,Sistema fluvial
-303,haageana,-97.295528,17.934361,gbif,NA,Oaxacana,haageana,Sistema carstico
-304,haageana,-97.40766,18.70227,gbif,NA,Haageana,haageana,Montanas de plegamiento
-305,haageana,-97.555833,18.235833,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-306,haageana,-97.510833,18.309444,gbif,NA,M_meissneri,haageana,Sistema fluvial
-307,haageana,-97.501389,18.268056,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-308,haageana,-97.5025,18.268611,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-309,haageana,-97.576389,18.337222,gbif,NA,M_meissneri,haageana,Sistema fluvial
-310,haageana,-97.571111,18.393889,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-311,haageana,-97.501111,18.287222,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-312,haageana,-97.5525,18.236667,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-313,haageana,-97.503056,18.303333,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-314,haageana,-97.554167,18.1875,gbif,NA,M_conspicua,haageana,Relieve volcanico
-315,haageana,-97.4075,18.702222,gbif,NA,Haageana,haageana,Montanas de plegamiento
-316,haageana,-97.443333,18.363889,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-317,haageana,-97.435278,18.3625,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-318,haageana,-97.474444,18.350833,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-319,haageana,-97.474722,18.346694,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-320,haageana,-97.449167,18.384722,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-321,haageana,-97.515278,18.361389,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-322,haageana,-97.515278,18.374722,gbif,NA,M_conspicua,haageana,Sistema carstico
-323,haageana,-97.518333,18.357222,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-324,haageana,-97.473611,18.352778,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-325,haageana,-97.514722,18.359167,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-326,haageana,-97.518889,18.344167,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-327,haageana,-97.521111,18.349167,gbif,NA,M_meissneri,haageana,Sistema fluvial
-328,haageana,-97.515,18.356944,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-329,haageana,-97.620278,18.740833,gbif,NA,M_conspicua,haageana,Sistema fluvial
-330,haageana,-97.5075,18.8,gbif,NA,Haageana,haageana,Llanuras lacustres y eolicas
-331,haageana,-97.429167,18.411667,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-332,haageana,-97.79655,17.82216,gbif,NA,M_conspicua,haageana,Sistema carstico
-333,haageana,-97.362778,19.476111,gbif,NA,Haageana,haageana,Montanas de plegamiento
-334,haageana,-97.55,17.833333,gbif,NA,Oaxacana,haageana,Relieve volcanico
-335,haageana,-97.433333,18.733333,gbif,NA,Haageana,haageana,Montanas de plegamiento
-336,haageana,-97.483333,17.65,gbif,NA,Oaxacana,haageana,Sistema carstico
-337,haageana,-97.45,18.7,gbif,NA,Haageana,haageana,Montanas de plegamiento
-338,haageana,-99.1,18.716667,gbif,NA,San_angelensis,haageana,Sistema fluvial
-339,haageana,-97.75,17.766667,gbif,NA,M_conspicua,haageana,Relieve volcanico
-340,haageana,-97.666667,17.716667,gbif,NA,Oaxacana,haageana,Relieve volcanico
-341,haageana,-97.533333,17.7,gbif,NA,Oaxacana,haageana,Montanas de plegamiento
-342,haageana,-97.233333,17.833333,gbif,NA,Oaxacana,haageana,Relieve volcanico
-343,haageana,-97.9,17.733333,gbif,NA,M_conspicua,haageana,Sistema carstico
-344,haageana,-97.55,18.25,gbif,NA,M_conspicua,haageana,Montanas de plegamiento
-345,haageana,-97.5,18.333333,gbif,NA,M_meissneri,haageana,Montanas de plegamiento
-346,haageana,-97.416667,18.75,gbif,NA,Haageana,haageana,Llanuras lacustres y eolicas
-347,albilanata,-98.51426944,17.60688889,herbarios,NA,Albilanata,albilanata,Sistema fluvial
-348,albilanata,-99.24425,18.25761111,herbarios,NA,Albilanata,albilanata,Sistema carstico
-349,albilanata,-99.56552222,17.113275,herbarios,NA,Albilanata,albilanata,Montanas de plegamiento
-350,albilanata,-98.4875,17.96583333,herbarios,NA,Albilanata,albilanata,Sierras
-351,albilanata,-96.69836667,16.89585556,herbarios,NA,Huauclilla,albilanata,Relieve volcanico
-352,haageana,-97.24361111,18.72583333,herbarios,NA,Acultingensis,haageana,Sistema fluvial
-353,haageana,-97.70897222,17.74008333,herbarios,NA,M_conspicua,haageana,Relieve volcanico
-354,haageana,-97.99544167,18.48758611,herbarios,NA,M_conspicua,haageana,Planicies
-355,haageana,-97.54975,17.33416667,herbarios,NA,Oaxacana,haageana,Montanas de plegamiento
-356,haageana,-97.40777778,19.38666667,herbarios,NA,Haageana,haageana,Relieve volcanico
-357,haageana,-97.52416667,18.30611111,herbarios,NA,M_meissneri,haageana,Montanas de plegamiento
-358,haageana,-97.471275,18.33577778,herbarios,NA,M_meissneri,haageana,Montanas de plegamiento
-359,haageana,-97.4625,18.62366667,herbarios,NA,M_conspicua,haageana,Sistema carstico
-360,haageana,-97.4575,18.33472222,herbarios,NA,M_meissneri,haageana,Montanas de plegamiento
-361,haageana,-97.17213889,17.57125,herbarios,NA,Oaxacana,haageana,Sistema carstico
-362,albilanata,-99.190316,19.313985,gbs,Jardin Botanico,San_angelensis,albilanata,Relieve volcanico
-363,albilanata,-99.190316,19.313985,gbs,Espacio escultorico tejido,San_angelensis,albilanata,Relieve volcanico
-364,haageana,-97.64913889,18.21330556,gbs,CC027,M_conspicua,haageana,Montanas de plegamiento
-365,haageana,-97.64913889,18.21330556,gbs,CC027,M_conspicua,haageana,Montanas de plegamiento
-366,haageana,-97.69563889,18.08436111,gbs,CC028,M_conspicua,haageana,Montanas de plegamiento
-367,haageana,-97.69563889,18.08436111,gbs,CC028,M_conspicua,haageana,Montanas de plegamiento
-368,albilanata,-97.21672222,17.48880556,gbs,CC033,Oaxacana,albilanata,Montanas de plegamiento
-369,albilanata,-97.21672222,17.48880556,gbs,CC033,Oaxacana,albilanata,Montanas de plegamiento
-370,albilanata,-97.20788889,17.47280556,gbs,CC034,Oaxacana,albilanata,Montanas de plegamiento
-371,albilanata,-97.20788889,17.47280556,gbs,CC034,Oaxacana,albilanata,Montanas de plegamiento
-372,albilanata,-97.0455,17.4365,gbs,CC035,Oaxacana,albilanata,Sistema carstico
-373,albilanata,-97.0455,17.4365,gbs,CC035,Oaxacana,albilanata,Sistema carstico
-374,albilanata,-97.10416667,17.45975,gbs,CC038,Oaxacana,albilanata,Sistema carstico
-375,albilanata,-97.10416667,17.45975,gbs,CC038,Oaxacana,albilanata,Sistema carstico
-376,albilanata,-97.29483333,17.26691667,gbs,CC039,Oaxacana,albilanata,Sistema carstico
-377,albilanata,-97.29483333,17.26691667,gbs,CC039,Oaxacana,albilanata,Sistema carstico
-378,haageana,-97.70161111,17.72897222,gbs,CC045,M_conspicua,haageana,Relieve volcanico
-379,haageana,-97.70161111,17.72897222,gbs,CC045,M_conspicua,haageana,Relieve volcanico
-380,haageana,-97.45961111,18.44738889,gbs,CC023,M_conspicua,haageana,Montanas de plegamiento
-381,haageana,-97.45961111,18.44738889,gbs,CC023,M_conspicua,haageana,Montanas de plegamiento
-382,haageana,-97.45961111,18.33333333,gbs,CC024,M_meissneri,haageana,Montanas de plegamiento
-383,haageana,-97.4935,18.25566667,gbs,CC025,M_conspicua,haageana,Sistema fluvial
-384,haageana,-97.4935,18.25566667,gbs,CC025,M_conspicua,haageana,Sistema fluvial
-385,haageana,-97.50097222,18.28794444,gbs,CC026,M_meissneri,haageana,Montanas de plegamiento
-386,haageana,-97.43938889,18.40211111,gbs,CC030,M_conspicua,haageana,Montanas de plegamiento
-387,haageana,-97.43938889,18.40211111,gbs,CC030,M_conspicua,haageana,Montanas de plegamiento
-388,haageana,-97.44513889,18.38708333,gbs,CC031,M_meissneri,haageana,Sistema fluvial
-389,haageana,-97.44513889,18.38708333,gbs,CC031,M_meissneri,haageana,Sistema fluvial
-390,haageana,-97.43744444,18.35783333,gbs,CC032,M_meissneri,haageana,Montanas de plegamiento
-391,haageana,-97.43744444,18.35783333,gbs,CC032,M_meissneri,haageana,Montanas de plegamiento
-392,haageana,-97.41877778,19.38772222,gbs,CC020,Haageana,haageana,Llanuras lacustres y eolicas
-393,haageana,-97.41877778,19.38772222,gbs,CC020,Haageana,haageana,Llanuras lacustres y eolicas
-394,haageana,-97.41877778,19.38772222,gbs,CC020,Haageana,haageana,Llanuras lacustres y eolicas
-395,haageana,-97.28816667,19.49563889,gbs,CC021,Haageana,haageana,Montanas de plegamiento
-396,haageana,-97.28816667,19.49563889,gbs,CC021,Haageana,haageana,Montanas de plegamiento
-397,haageana,-97.28816667,19.49563889,gbs,CC021,Haageana,haageana,Montanas de plegamiento
-398,haageana,-97.38219444,18.84725,gbs,CC022,Haageana,haageana,Relieve volcanico
-399,haageana,-97.38219444,18.84725,gbs,CC022,Haageana,haageana,Relieve volcanico
-400,haageana,-97.38219444,18.84725,gbs,CC022,Haageana,haageana,Relieve volcanico
-401,haageana,-97.2435,18.75838889,gbs,CC029,Acultingensis,haageana,Sistema carstico
-402,haageana,-97.2435,18.75838889,gbs,CC029,Acultingensis,haageana,Sistema carstico
-403,haageana,-97.2435,18.75838889,gbs,CC029,Acultingensis,haageana,Sistema carstico
-404,albilanata,-97.04522222,17.48205556,gbs,CC036,Huauclilla,albilanata,Sistema fluvial
-405,albilanata,-97.04522222,17.48205556,gbs,CC036,Huauclilla,albilanata,Sistema fluvial
-406,albilanata,-97.04522222,17.48205556,gbs,CC036,Huauclilla,albilanata,Sistema fluvial
-407,albilanata,-97.06019444,17.46769444,gbs,CC037,Oaxacana,albilanata,Sierras
-408,albilanata,-96.93841667,17.34408333,gbs,CC040,Oaxacana,albilanata,Montanas de plegamiento
-409,albilanata,-96.93841667,17.34408333,gbs,CC040,Oaxacana,albilanata,Montanas de plegamiento
-410,albilanata,-96.93841667,17.34408333,gbs,CC040,Oaxacana,albilanata,Montanas de plegamiento
-411,albilanata,-96.10108333,16.67027778,gbs,CC043,Tehuantepec,albilanata,Sistema fluvial
-412,albilanata,-96.10108333,16.67027778,gbs,CC043,Tehuantepec,albilanata,Sistema fluvial
-413,albilanata,-96.10108333,16.67027778,gbs,CC043,Tehuantepec,albilanata,Sistema fluvial
-414,albilanata,-95.45358333,16.40333333,gbs,CC044,Tehuantepec,albilanata,Sierras
-415,albilanata,-95.45358333,16.40333333,gbs,CC044,Tehuantepec,albilanata,Sierras
-416,albilanata,-95.45358333,16.40333333,gbs,CC044,Tehuantepec,albilanata,Sierras
-417,albilanata,-97.97855556,17.65152778,gbs,CC046,Sto_domingo,albilanata,Montanas de plegamiento
-418,albilanata,-97.97855556,17.65152778,gbs,CC046,Sto_domingo,albilanata,Montanas de plegamiento
-419,albilanata,-97.97855556,17.65152778,gbs,CC046,Sto_domingo,albilanata,Montanas de plegamiento
-420,albilanata,-99.25709722,18.2557,gbs,CC047,Albilanata,albilanata,Sistema carstico
-421,albilanata,-103.9243639,19.57972778,gbs,M_reppen,Reppenhagenii,albilanata,Relieve volcanico
-422,albilanata,-94.94722222,16.55277778,col_cactus,NA,Tehuantepec,albilanata,Llanuras lacustres y eolicas
-423,haageana,-97.63916667,18.28555556,col_cactus,NA,M_conspicua,haageana,Montanas de plegamiento
-424,haageana,-97.44361111,18.39555556,col_cactus,NA,M_meissneri,haageana,Sistema fluvial
-425,haageana,-97.48,17.25222222,col_cactus,NA,Oaxacana,haageana,Sistema carstico
-426,haageana,-96.93555556,17.345,col_cactus,NA,Oaxacana,haageana,Montanas de plegamiento
-427,haageana,-97.33388889,17.15583333,col_cactus,NA,Oaxacana,haageana,Sistema fluvial
-428,haageana,-97.34944444,17.46333333,col_cactus,NA,Oaxacana,haageana,Sistema fluvial
-429,haageana,-97.50555556,17.63833333,col_cactus,NA,Oaxacana,haageana,Sistema carstico
-430,haageana,-97.37638889,17.42861111,col_cactus,NA,Oaxacana,haageana,Montanas de plegamiento
-431,haageana,-97.38,17.54944444,col_cactus,NA,Oaxacana,haageana,Sistema fluvial
-432,haageana,-97.25027778,18.44666667,col_cactus,NA,Oaxacana,haageana,Sierras
-433,haageana,-97.19944444,17.63583333,col_cactus,NA,Oaxacana,haageana,Sistema fluvial
-434,haageana,-97.53694444,17.80138889,col_cactus,NA,Oaxacana,haageana,Montanas de plegamiento
-435,haageana,-97.21944444,17.45833333,col_cactus,NA,Oaxacana,haageana,Montanas de plegamiento
-436,haageana,-97.44305556,17.50944444,col_cactus,NA,Oaxacana,haageana,Montanas de plegamiento
-437,haageana,-97.465,17.33722222,col_cactus,NA,Oaxacana,haageana,Sistema carstico
-438,haageana,-97.74166667,18.17833333,col_cactus,NA,M_conspicua,haageana,Sistema fluvial
-439,haageana,-97.26027778,17.44611111,col_cactus,NA,Oaxacana,haageana,Montanas de plegamiento
-440,haageana,-97.26027778,17.28277778,col_cactus,NA,Oaxacana,haageana,Sistema carstico
-441,haageana,-97.26027778,17.83694444,col_cactus,NA,Oaxacana,haageana,Montanas de plegamiento
-442,haageana,-97.48722222,18.22527778,col_cactus,NA,M_conspicua,haageana,Sistema fluvial
-443,haageana,-99.11805556,18.85638889,col_cactus,NA,San_angelensis,haageana,Sistema fluvial
-444,haageana,-97.17611111,17.33305556,col_cactus,NA,Oaxacana,haageana,Montanas de plegamiento
-445,haageana,-97.26722222,17.40638889,col_cactus,NA,Oaxacana,haageana,Sistema fluvial
-446,haageana,-97.22666667,17.48583333,col_cactus,NA,Oaxacana,haageana,Montanas de plegamiento
-447,haageana,-97.23027778,17.35638889,col_cactus,NA,Oaxacana,haageana,Montanas de plegamiento
-448,haageana,-97.40111111,17.48805556,col_cactus,NA,Oaxacana,haageana,Sistema fluvial
-449,haageana,-97.26055556,17.72583333,col_cactus,NA,Oaxacana,haageana,Montanas de plegamiento
-450,haageana,-97.425,17.42472222,col_cactus,NA,Oaxacana,haageana,Relieve volcanico
-451,haageana,-97.47444444,17.4225,col_cactus,NA,Oaxacana,haageana,Sistema carstico
-452,haageana,-97.32972222,17.57194444,col_cactus,NA,Oaxacana,haageana,Montanas de plegamiento
-453,haageana,-97.32527778,17.64833333,col_cactus,NA,Oaxacana,haageana,Montanas de plegamiento
-454,haageana,-97.10583333,17.37583333,col_cactus,NA,Oaxacana,haageana,Sistema fluvial
+"","Especie","Long","Lat","BD","colecta","env_group_3"
+"1","albilanata",-98.110123,18.246991,"gbif",NA,"Sto_domingo"
+"2","albilanata",-97.812778,17.838889,"gbif",NA,"M_conspicua"
+"3","albilanata",-99.071996,17.637558,"gbif",NA,"Albilanata"
+"4","albilanata",-97.130273,17.335774,"gbif",NA,"Oaxacana"
+"5","albilanata",-97.199203,17.693317,"gbif",NA,"Oaxacana"
+"6","albilanata",-96.338711,16.561306,"gbif",NA,"Tehuantepec"
+"7","albilanata",-96.350351,16.535162,"gbif",NA,"M_meissneri"
+"8","albilanata",-97.858769,17.50065,"gbif",NA,"Oaxacana"
+"9","albilanata",-96.488845,17.257653,"gbif",NA,"Oaxacana"
+"10","albilanata",-96.782398,17.190781,"gbif",NA,"Huauclilla"
+"11","albilanata",-97.0775,16.541389,"gbif",NA,"Oaxacana"
+"12","albilanata",-96.949806,17.585442,"gbif",NA,"Huauclilla"
+"13","albilanata",-96.92516,17.370764,"gbif",NA,"Oaxacana"
+"14","albilanata",-99.449637,17.434344,"gbif",NA,"Albilanata"
+"15","albilanata",-97.085307,17.469148,"gbif",NA,"Oaxacana"
+"16","albilanata",-97.0855,17.462142,"gbif",NA,"Oaxacana"
+"17","albilanata",-97.320934,17.725252,"gbif",NA,"Oaxacana"
+"18","albilanata",-96.275859,16.866561,"gbif",NA,"Oaxacana"
+"19","albilanata",-96.275628,16.86652,"gbif",NA,"Oaxacana"
+"20","albilanata",-96.305781,16.859863,"gbif",NA,"Oaxacana"
+"21","albilanata",-98.464112,17.868763,"gbif",NA,"Albilanata"
+"22","albilanata",-96.490591,17.255614,"gbif",NA,"Oaxacana"
+"23","albilanata",-97.531915,17.149796,"gbif",NA,"Oaxacana"
+"24","albilanata",-99.497101,18.64901,"gbif",NA,"Albilanata"
+"25","albilanata",-98.390343,17.753091,"gbif",NA,"Albilanata"
+"26","albilanata",-96.952951,17.588672,"gbif",NA,"Huauclilla"
+"27","albilanata",-99.502617,18.657801,"gbif",NA,"Albilanata"
+"28","albilanata",-96.984925,16.657309,"gbif",NA,"Oaxacana"
+"29","albilanata",-93.114628,16.621148,"gbif",NA,"Tehuantepec"
+"30","albilanata",-99.50695,18.666646,"gbif",NA,"Albilanata"
+"31","albilanata",-99.517937,18.669898,"gbif",NA,"Albilanata"
+"32","albilanata",-99.492187,18.672593,"gbif",NA,"Albilanata"
+"33","albilanata",-99.499741,18.694616,"gbif",NA,"Albilanata"
+"34","albilanata",-99.510319,18.668412,"gbif",NA,"Albilanata"
+"35","albilanata",-97.271806,17.6855,"gbif",NA,"Oaxacana"
+"36","albilanata",-97.245097,17.695323,"gbif",NA,"Oaxacana"
+"37","albilanata",-99.525404,18.662347,"gbif",NA,"Albilanata"
+"38","albilanata",-97.981396,17.5241,"gbif",NA,"Oaxacana"
+"39","albilanata",-96.629508,16.294656,"gbif",NA,"Oaxacana"
+"40","albilanata",-96.930951,17.439065,"gbif",NA,"Oaxacana"
+"41","albilanata",-96.940127,17.484824,"gbif",NA,"Oaxacana"
+"42","albilanata",-99.524924,18.69738,"gbif",NA,"Albilanata"
+"43","albilanata",-97.944283,17.70238,"gbif",NA,"Sto_domingo"
+"44","albilanata",-96.90965,17.053715,"gbif",NA,"Oaxacana"
+"45","albilanata",-97.242737,18.156291,"gbif",NA,"M_meissneri"
+"46","albilanata",-96.10027,16.66166,"gbif",NA,"Tehuantepec"
+"47","albilanata",-98.017745,17.643565,"gbif",NA,"Sto_domingo"
+"48","albilanata",-98.04599,17.636128,"gbif",NA,"Sto_domingo"
+"49","albilanata",-98.041745,17.949431,"gbif",NA,"Sto_domingo"
+"50","albilanata",-95.199418,16.349385,"gbif",NA,"Tehuantepec"
+"51","albilanata",-96.945556,17.567528,"gbif",NA,"Huauclilla"
+"52","albilanata",-103.926966,19.550924,"gbif",NA,"Reppenhagenii"
+"53","albilanata",-98.647527,18.39525,"gbif",NA,"Albilanata"
+"54","albilanata",-98.645552,18.39328,"gbif",NA,"Albilanata"
+"55","albilanata",-98.645552,18.394013,"gbif",NA,"Albilanata"
+"56","albilanata",-98.654235,18.399937,"gbif",NA,"Albilanata"
+"57","albilanata",-97.154975,17.720646,"gbif",NA,"Oaxacana"
+"58","albilanata",-95.015737,16.65247,"gbif",NA,"Tehuantepec"
+"59","albilanata",-97.52947,17.13155,"gbif",NA,"Oaxacana"
+"60","albilanata",-96.93347,17.60772,"gbif",NA,"Huauclilla"
+"61","albilanata",-96.746341,16.841354,"gbif",NA,"Huauclilla"
+"62","albilanata",-96.36525,16.83638,"gbif",NA,"Oaxacana"
+"63","albilanata",-96.466667,16.383333,"gbif",NA,"M_meissneri"
+"64","albilanata",-98.05,17.333333,"gbif",NA,"Oaxacana"
+"65","albilanata",-96.8,17.3,"gbif",NA,"Oaxacana"
+"66","albilanata",-93.533333,16.75,"gbif",NA,"Tehuantepec"
+"67","albilanata",-96.3,16.666667,"gbif",NA,"Tehuantepec"
+"68","albilanata",-96.52861,17.325,"gbif",NA,"Oaxacana"
+"69","albilanata",-96.21666,16.476667,"gbif",NA,"Oaxacana"
+"70","albilanata",-103.9,19.316666,"gbif",NA,"Reppenhagenii"
+"71","albilanata",-96.433333,16.383333,"gbif",NA,"M_meissneri"
+"72","haageana",-97.457917,18.327069,"gbif",NA,"M_meissneri"
+"73","haageana",-97.457418,18.327197,"gbif",NA,"M_meissneri"
+"74","haageana",-97.457803,18.327124,"gbif",NA,"M_meissneri"
+"75","haageana",-97.457661,18.328593,"gbif",NA,"M_meissneri"
+"76","haageana",-97.457864,18.332275,"gbif",NA,"M_meissneri"
+"77","haageana",-97.458287,18.326932,"gbif",NA,"M_meissneri"
+"78","haageana",-97.457273,18.327194,"gbif",NA,"M_meissneri"
+"79","haageana",-97.459866,18.327215,"gbif",NA,"M_meissneri"
+"80","haageana",-97.457753,18.33,"gbif",NA,"M_meissneri"
+"81","haageana",-97.46907,18.330502,"gbif",NA,"M_meissneri"
+"82","haageana",-97.460334,18.327191,"gbif",NA,"M_meissneri"
+"83","haageana",-97.460287,18.327195,"gbif",NA,"M_meissneri"
+"84","haageana",-97.45946,18.327171,"gbif",NA,"M_meissneri"
+"85","haageana",-97.455853,18.326905,"gbif",NA,"M_meissneri"
+"86","haageana",-97.455858,18.326874,"gbif",NA,"M_meissneri"
+"87","haageana",-97.45595,18.326912,"gbif",NA,"M_meissneri"
+"88","haageana",-97.458593,18.330587,"gbif",NA,"M_meissneri"
+"89","haageana",-97.456223,18.327015,"gbif",NA,"M_meissneri"
+"90","haageana",-97.456582,18.3306,"gbif",NA,"M_meissneri"
+"91","haageana",-97.458648,18.330812,"gbif",NA,"M_meissneri"
+"92","haageana",-97.459746,18.327216,"gbif",NA,"M_meissneri"
+"93","haageana",-97.456861,18.327152,"gbif",NA,"M_meissneri"
+"94","haageana",-97.456645,18.327099,"gbif",NA,"M_meissneri"
+"95","haageana",-97.323871,17.856039,"gbif",NA,"Oaxacana"
+"96","haageana",-97.460651,18.326987,"gbif",NA,"M_meissneri"
+"97","haageana",-97.2769,19.441345,"gbif",NA,"Haageana"
+"98","haageana",-97.428999,19.514548,"gbif",NA,"Haageana"
+"99","haageana",-97.43763,19.508733,"gbif",NA,"Haageana"
+"100","haageana",-97.462072,18.333679,"gbif",NA,"M_meissneri"
+"101","haageana",-96.893414,16.604153,"gbif",NA,"Oaxacana"
+"102","haageana",-97.318825,18.528913,"gbif",NA,"M_conspicua"
+"103","haageana",-97.469383,18.3311,"gbif",NA,"M_meissneri"
+"104","haageana",-97.445507,19.502476,"gbif",NA,"Haageana"
+"105","haageana",-97.319549,17.707729,"gbif",NA,"Oaxacana"
+"106","haageana",-97.487359,19.394898,"gbif",NA,"Haageana"
+"107","haageana",-97.450701,19.352218,"gbif",NA,"Haageana"
+"108","haageana",-97.356222,17.853157,"gbif",NA,"Oaxacana"
+"109","haageana",-97.549863,18.274145,"gbif",NA,"M_meissneri"
+"110","haageana",-97.475706,18.329069,"gbif",NA,"M_meissneri"
+"111","haageana",-97.418128,18.943288,"gbif",NA,"Haageana"
+"112","haageana",-98.06823,18.599085,"gbif",NA,"Sto_domingo"
+"113","haageana",-97.605453,18.319358,"gbif",NA,"M_meissneri"
+"114","haageana",-97.616505,18.308653,"gbif",NA,"M_meissneri"
+"115","haageana",-97.414092,18.393919,"gbif",NA,"M_meissneri"
+"116","haageana",-97.517825,18.333444,"gbif",NA,"M_meissneri"
+"117","haageana",-97.912332,18.590297,"gbif",NA,"M_conspicua"
+"118","haageana",-97.466026,18.331358,"gbif",NA,"M_meissneri"
+"119","haageana",-97.613554,18.432794,"gbif",NA,"M_conspicua"
+"120","haageana",-97.615614,18.432143,"gbif",NA,"M_conspicua"
+"121","haageana",-97.1851,17.85249,"gbif",NA,"Oaxacana"
+"122","haageana",-97.453603,19.33851,"gbif",NA,"Haageana"
+"123","haageana",-97.519994,18.278058,"gbif",NA,"M_meissneri"
+"124","haageana",-97.373889,17.976389,"gbif",NA,"Oaxacana"
+"125","haageana",-97.443023,18.319085,"gbif",NA,"M_meissneri"
+"126","haageana",-97.444409,18.384374,"gbif",NA,"M_meissneri"
+"127","haageana",-97.373887,18.317231,"gbif",NA,"M_meissneri"
+"128","haageana",-97.481346,18.280115,"gbif",NA,"M_meissneri"
+"129","haageana",-97.622795,18.183729,"gbif",NA,"M_conspicua"
+"130","haageana",-97.55957,18.325525,"gbif",NA,"M_meissneri"
+"131","haageana",-97.412778,17.880833,"gbif",NA,"Oaxacana"
+"132","haageana",-97.318047,17.762786,"gbif",NA,"Oaxacana"
+"133","haageana",-97.305983,18.073063,"gbif",NA,"Oaxacana"
+"134","haageana",-97.439257,17.928038,"gbif",NA,"Oaxacana"
+"135","haageana",-99.162486,18.744792,"gbif",NA,"San_angelensis"
+"136","haageana",-99.047718,18.686488,"gbif",NA,"San_angelensis"
+"137","haageana",-97.380001,18.312851,"gbif",NA,"M_meissneri"
+"138","haageana",-97.567678,18.269278,"gbif",NA,"M_conspicua"
+"139","haageana",-97.454164,18.329486,"gbif",NA,"M_meissneri"
+"140","haageana",-97.309745,18.067554,"gbif",NA,"Oaxacana"
+"141","haageana",-97.389633,17.551781,"gbif",NA,"Oaxacana"
+"142","haageana",-97.442862,18.327298,"gbif",NA,"M_meissneri"
+"143","haageana",-97.343604,18.057471,"gbif",NA,"Oaxacana"
+"144","haageana",-97.617155,18.31587,"gbif",NA,"M_meissneri"
+"145","haageana",-97.558445,18.277731,"gbif",NA,"M_meissneri"
+"146","haageana",-97.559992,18.283966,"gbif",NA,"M_meissneri"
+"147","haageana",-97.45816,18.332067,"gbif",NA,"M_meissneri"
+"148","haageana",-97.457115,18.330141,"gbif",NA,"M_meissneri"
+"149","haageana",-97.457016,18.330418,"gbif",NA,"M_meissneri"
+"150","haageana",-97.456291,18.331127,"gbif",NA,"M_meissneri"
+"151","haageana",-97.457016,18.33156,"gbif",NA,"M_meissneri"
+"152","haageana",-97.560163,18.27333,"gbif",NA,"M_conspicua"
+"153","haageana",-97.361046,17.87545,"gbif",NA,"Oaxacana"
+"154","haageana",-97.691673,17.894515,"gbif",NA,"M_conspicua"
+"155","haageana",-97.356763,18.456823,"gbif",NA,"M_meissneri"
+"156","haageana",-97.415511,19.418286,"gbif",NA,"Haageana"
+"157","haageana",-97.428628,19.514786,"gbif",NA,"Haageana"
+"158","haageana",-97.414772,19.419206,"gbif",NA,"Haageana"
+"159","haageana",-97.452984,18.327783,"gbif",NA,"M_meissneri"
+"160","haageana",-97.754776,18.620033,"gbif",NA,"M_conspicua"
+"161","haageana",-97.434745,18.356757,"gbif",NA,"M_meissneri"
+"162","haageana",-97.563064,19.344442,"gbif",NA,"Haageana"
+"163","haageana",-97.454481,19.331691,"gbif",NA,"Haageana"
+"164","haageana",-97.564858,19.344861,"gbif",NA,"Haageana"
+"165","haageana",-97.269048,19.545671,"gbif",NA,"Haageana"
+"166","haageana",-97.495942,19.359036,"gbif",NA,"Haageana"
+"167","haageana",-97.492547,19.351892,"gbif",NA,"Haageana"
+"168","haageana",-97.84087,17.87829,"gbif",NA,"M_conspicua"
+"169","haageana",-97.496757,17.850148,"gbif",NA,"Oaxacana"
+"170","haageana",-97.719335,18.067345,"gbif",NA,"M_conspicua"
+"171","haageana",-97.611725,18.242501,"gbif",NA,"M_conspicua"
+"172","haageana",-97.494064,18.044042,"gbif",NA,"M_conspicua"
+"173","haageana",-97.615,18.316111,"gbif",NA,"M_meissneri"
+"174","haageana",-97.445563,18.342407,"gbif",NA,"M_meissneri"
+"175","haageana",-97.373199,18.307677,"gbif",NA,"M_meissneri"
+"176","haageana",-97.546667,18.252222,"gbif",NA,"M_meissneri"
+"177","haageana",-97.377319,18.317129,"gbif",NA,"M_meissneri"
+"178","haageana",-97.373543,18.315174,"gbif",NA,"M_meissneri"
+"179","haageana",-97.45079,18.342794,"gbif",NA,"M_meissneri"
+"180","haageana",-97.680924,18.002938,"gbif",NA,"M_conspicua"
+"181","haageana",-97.717302,18.515156,"gbif",NA,"M_conspicua"
+"182","haageana",-97.511258,18.332594,"gbif",NA,"M_meissneri"
+"183","haageana",-97.783292,18.487568,"gbif",NA,"M_conspicua"
+"184","haageana",-97.871223,17.956656,"gbif",NA,"M_conspicua"
+"185","haageana",-97.261264,17.693223,"gbif",NA,"Oaxacana"
+"186","haageana",-97.267639,17.692722,"gbif",NA,"Oaxacana"
+"187","haageana",-97.233056,17.677361,"gbif",NA,"Oaxacana"
+"188","haageana",-97.322651,17.723944,"gbif",NA,"Oaxacana"
+"189","haageana",-97.256457,17.691261,"gbif",NA,"Oaxacana"
+"190","haageana",-97.923933,18.409924,"gbif",NA,"M_conspicua"
+"191","haageana",-97.43129,18.361412,"gbif",NA,"M_meissneri"
+"192","haageana",-97.319904,17.724639,"gbif",NA,"Oaxacana"
+"193","haageana",-97.271806,17.6855,"gbif",NA,"Oaxacana"
+"194","haageana",-97.435413,18.378655,"gbif",NA,"M_meissneri"
+"195","haageana",-97.448889,18.346944,"gbif",NA,"M_meissneri"
+"196","haageana",-97.298286,17.736653,"gbif",NA,"Oaxacana"
+"197","haageana",-97.477889,18.358616,"gbif",NA,"M_conspicua"
+"198","haageana",-97.249368,19.422588,"gbif",NA,"Haageana"
+"199","haageana",-97.446371,18.333949,"gbif",NA,"M_meissneri"
+"200","haageana",-97.626957,19.023191,"gbif",NA,"Haageana"
+"201","haageana",-97.577501,18.951668,"gbif",NA,"Haageana"
+"202","haageana",-97.674074,18.438081,"gbif",NA,"M_conspicua"
+"203","haageana",-97.514983,18.340366,"gbif",NA,"M_meissneri"
+"204","haageana",-97.239814,17.856468,"gbif",NA,"Oaxacana"
+"205","haageana",-97.910265,18.22273,"gbif",NA,"Sto_domingo"
+"206","haageana",-97.63291,18.286927,"gbif",NA,"M_conspicua"
+"207","haageana",-97.474676,18.329232,"gbif",NA,"M_meissneri"
+"208","haageana",-97.390859,18.271835,"gbif",NA,"M_conspicua"
+"209","haageana",-97.64891,18.21291,"gbif",NA,"M_conspicua"
+"210","haageana",-97.633786,19.020262,"gbif",NA,"Haageana"
+"211","haageana",-99.173874,18.832471,"gbif",NA,"San_angelensis"
+"212","haageana",-97.627808,19.024923,"gbif",NA,"Haageana"
+"213","haageana",-97.627036,19.026093,"gbif",NA,"Haageana"
+"214","haageana",-97.45766,18.33247,"gbif",NA,"M_meissneri"
+"215","haageana",-97.457328,18.33125,"gbif",NA,"M_meissneri"
+"216","haageana",-97.497053,18.330378,"gbif",NA,"M_meissneri"
+"217","haageana",-97.680817,17.768631,"gbif",NA,"M_conspicua"
+"218","haageana",-97.687168,17.778603,"gbif",NA,"M_conspicua"
+"219","haageana",-97.672695,18.211564,"gbif",NA,"M_conspicua"
+"220","haageana",-97.469556,18.407306,"gbif",NA,"M_conspicua"
+"221","haageana",-97.320833,17.817528,"gbif",NA,"Oaxacana"
+"222","haageana",-97.484779,18.243699,"gbif",NA,"M_conspicua"
+"223","haageana",-97.457107,18.330199,"gbif",NA,"M_meissneri"
+"224","haageana",-97.456936,18.330403,"gbif",NA,"M_meissneri"
+"225","haageana",-97.457571,18.330533,"gbif",NA,"M_meissneri"
+"226","haageana",-97.4625,18.623667,"gbif",NA,"M_conspicua"
+"227","haageana",-97.571556,18.236194,"gbif",NA,"M_conspicua"
+"228","haageana",-97.547167,18.239722,"gbif",NA,"M_conspicua"
+"229","haageana",-97.458889,18.319222,"gbif",NA,"M_meissneri"
+"230","haageana",-97.435861,18.375944,"gbif",NA,"M_meissneri"
+"231","haageana",-97.47875,18.349278,"gbif",NA,"M_conspicua"
+"232","haageana",-97.475361,18.36,"gbif",NA,"M_conspicua"
+"233","haageana",-97.478139,18.353806,"gbif",NA,"M_conspicua"
+"234","haageana",-97.4805,18.357139,"gbif",NA,"M_conspicua"
+"235","haageana",-97.482722,18.359472,"gbif",NA,"M_conspicua"
+"236","haageana",-97.382222,18.682167,"gbif",NA,"M_conspicua"
+"237","haageana",-97.453139,18.255556,"gbif",NA,"M_conspicua"
+"238","haageana",-97.435528,18.232194,"gbif",NA,"M_conspicua"
+"239","haageana",-97.519222,18.404472,"gbif",NA,"M_conspicua"
+"240","haageana",-97.50025,18.26825,"gbif",NA,"M_meissneri"
+"241","haageana",-97.474861,18.43075,"gbif",NA,"M_conspicua"
+"242","haageana",-97.403889,18.706556,"gbif",NA,"Haageana"
+"243","haageana",-97.408583,18.697833,"gbif",NA,"Haageana"
+"244","haageana",-97.532917,18.201611,"gbif",NA,"M_conspicua"
+"245","haageana",-97.466944,18.4195,"gbif",NA,"M_conspicua"
+"246","haageana",-97.405361,18.705139,"gbif",NA,"Haageana"
+"247","haageana",-97.090667,17.578083,"gbif",NA,"Oaxacana"
+"248","haageana",-97.520889,18.760194,"gbif",NA,"Haageana"
+"249","haageana",-97.556778,18.737139,"gbif",NA,"Haageana"
+"250","haageana",-97.620306,18.73825,"gbif",NA,"M_conspicua"
+"251","haageana",-97.463889,18.603833,"gbif",NA,"M_conspicua"
+"252","haageana",-97.471667,18.608333,"gbif",NA,"M_conspicua"
+"253","haageana",-97.361028,18.345306,"gbif",NA,"M_meissneri"
+"254","haageana",-97.649444,18.321111,"gbif",NA,"M_conspicua"
+"255","haageana",-97.590944,18.367639,"gbif",NA,"M_conspicua"
+"256","haageana",-97.602583,18.366194,"gbif",NA,"M_conspicua"
+"257","haageana",-97.528278,18.201,"gbif",NA,"M_conspicua"
+"258","haageana",-97.633778,18.33475,"gbif",NA,"M_conspicua"
+"259","haageana",-97.576222,18.347417,"gbif",NA,"M_meissneri"
+"260","haageana",-97.456389,18.663333,"gbif",NA,"M_conspicua"
+"261","haageana",-97.437222,18.373889,"gbif",NA,"M_meissneri"
+"262","haageana",-97.505833,18.195833,"gbif",NA,"M_conspicua"
+"263","haageana",-97.470556,18.590278,"gbif",NA,"M_conspicua"
+"264","haageana",-97.455476,18.329937,"gbif",NA,"M_meissneri"
+"265","haageana",-97.414722,18.216639,"gbif",NA,"M_conspicua"
+"266","haageana",-97.499444,18.318917,"gbif",NA,"M_meissneri"
+"267","haageana",-97.363611,18.361861,"gbif",NA,"M_meissneri"
+"268","haageana",-97.38,18.317972,"gbif",NA,"M_meissneri"
+"269","haageana",-97.452111,18.338806,"gbif",NA,"M_meissneri"
+"270","haageana",-97.38,18.319389,"gbif",NA,"M_meissneri"
+"271","haageana",-97.379722,18.311972,"gbif",NA,"M_meissneri"
+"272","haageana",-97.4925,18.255361,"gbif",NA,"M_conspicua"
+"273","haageana",-97.512389,18.402611,"gbif",NA,"M_conspicua"
+"274","haageana",-97.484806,18.41025,"gbif",NA,"M_conspicua"
+"275","haageana",-97.526167,18.404889,"gbif",NA,"M_conspicua"
+"276","haageana",-97.555972,18.318083,"gbif",NA,"M_meissneri"
+"277","haageana",-97.449167,18.40475,"gbif",NA,"M_conspicua"
+"278","haageana",-97.572444,18.39025,"gbif",NA,"M_conspicua"
+"279","haageana",-97.474806,18.607111,"gbif",NA,"M_conspicua"
+"280","haageana",-97.550083,18.250833,"gbif",NA,"M_meissneri"
+"281","haageana",-97.53944,18.48266,"gbif",NA,"M_conspicua"
+"282","haageana",-97.796556,17.822167,"gbif",NA,"M_conspicua"
+"283","haageana",-97.69344,18.03202,"gbif",NA,"M_conspicua"
+"284","haageana",-97.87583,17.94036,"gbif",NA,"M_conspicua"
+"285","haageana",-97.93318,18.08663,"gbif",NA,"Sto_domingo"
+"286","haageana",-97.446972,18.340583,"gbif",NA,"M_meissneri"
+"287","haageana",-97.448333,18.340806,"gbif",NA,"M_meissneri"
+"288","haageana",-97.447333,18.340444,"gbif",NA,"M_meissneri"
+"289","haageana",-97.420417,18.41925,"gbif",NA,"M_meissneri"
+"290","haageana",-97.502222,18.224833,"gbif",NA,"M_conspicua"
+"291","haageana",-97.449528,18.342111,"gbif",NA,"M_meissneri"
+"292","haageana",-97.446583,18.337278,"gbif",NA,"M_meissneri"
+"293","haageana",-97.663889,18.202778,"gbif",NA,"M_conspicua"
+"294","haageana",-97.426111,18.320694,"gbif",NA,"M_meissneri"
+"295","haageana",-97.435056,18.3235,"gbif",NA,"M_meissneri"
+"296","haageana",-97.359722,18.303917,"gbif",NA,"M_meissneri"
+"297","haageana",-97.448056,18.319972,"gbif",NA,"M_meissneri"
+"298","haageana",-97.440556,18.316778,"gbif",NA,"M_meissneri"
+"299","haageana",-97.435556,18.322583,"gbif",NA,"M_meissneri"
+"300","haageana",-97.415278,18.228056,"gbif",NA,"M_conspicua"
+"301","haageana",-97.415,18.215833,"gbif",NA,"M_conspicua"
+"302","haageana",-97.296389,17.936,"gbif",NA,"Oaxacana"
+"303","haageana",-97.295528,17.934361,"gbif",NA,"Oaxacana"
+"304","haageana",-97.40766,18.70227,"gbif",NA,"Haageana"
+"305","haageana",-97.555833,18.235833,"gbif",NA,"M_conspicua"
+"306","haageana",-97.510833,18.309444,"gbif",NA,"M_meissneri"
+"307","haageana",-97.501389,18.268056,"gbif",NA,"M_meissneri"
+"308","haageana",-97.5025,18.268611,"gbif",NA,"M_meissneri"
+"309","haageana",-97.576389,18.337222,"gbif",NA,"M_meissneri"
+"310","haageana",-97.571111,18.393889,"gbif",NA,"M_conspicua"
+"311","haageana",-97.501111,18.287222,"gbif",NA,"M_meissneri"
+"312","haageana",-97.5525,18.236667,"gbif",NA,"M_conspicua"
+"313","haageana",-97.503056,18.303333,"gbif",NA,"M_meissneri"
+"314","haageana",-97.554167,18.1875,"gbif",NA,"M_conspicua"
+"315","haageana",-97.4075,18.702222,"gbif",NA,"Haageana"
+"316","haageana",-97.443333,18.363889,"gbif",NA,"M_meissneri"
+"317","haageana",-97.435278,18.3625,"gbif",NA,"M_meissneri"
+"318","haageana",-97.474444,18.350833,"gbif",NA,"M_conspicua"
+"319","haageana",-97.474722,18.346694,"gbif",NA,"M_conspicua"
+"320","haageana",-97.449167,18.384722,"gbif",NA,"M_conspicua"
+"321","haageana",-97.515278,18.361389,"gbif",NA,"M_meissneri"
+"322","haageana",-97.515278,18.374722,"gbif",NA,"M_conspicua"
+"323","haageana",-97.518333,18.357222,"gbif",NA,"M_meissneri"
+"324","haageana",-97.473611,18.352778,"gbif",NA,"M_conspicua"
+"325","haageana",-97.514722,18.359167,"gbif",NA,"M_conspicua"
+"326","haageana",-97.518889,18.344167,"gbif",NA,"M_meissneri"
+"327","haageana",-97.521111,18.349167,"gbif",NA,"M_meissneri"
+"328","haageana",-97.515,18.356944,"gbif",NA,"M_meissneri"
+"329","haageana",-97.620278,18.740833,"gbif",NA,"M_conspicua"
+"330","haageana",-97.5075,18.8,"gbif",NA,"Haageana"
+"331","haageana",-97.429167,18.411667,"gbif",NA,"M_conspicua"
+"332","haageana",-97.79655,17.82216,"gbif",NA,"M_conspicua"
+"333","haageana",-97.362778,19.476111,"gbif",NA,"Haageana"
+"334","haageana",-97.55,17.833333,"gbif",NA,"Oaxacana"
+"335","haageana",-97.433333,18.733333,"gbif",NA,"Haageana"
+"336","haageana",-97.483333,17.65,"gbif",NA,"Oaxacana"
+"337","haageana",-97.45,18.7,"gbif",NA,"Haageana"
+"338","haageana",-99.1,18.716667,"gbif",NA,"San_angelensis"
+"339","haageana",-97.75,17.766667,"gbif",NA,"M_conspicua"
+"340","haageana",-97.666667,17.716667,"gbif",NA,"Oaxacana"
+"341","haageana",-97.533333,17.7,"gbif",NA,"Oaxacana"
+"342","haageana",-97.233333,17.833333,"gbif",NA,"Oaxacana"
+"343","haageana",-97.9,17.733333,"gbif",NA,"M_conspicua"
+"344","haageana",-97.55,18.25,"gbif",NA,"M_conspicua"
+"345","haageana",-97.5,18.333333,"gbif",NA,"M_meissneri"
+"346","haageana",-97.416667,18.75,"gbif",NA,"Haageana"
+"347","albilanata",-98.5142694444444,17.6068888888889,"herbarios",NA,"Albilanata"
+"348","albilanata",-99.24425,18.2576111111111,"herbarios",NA,"Albilanata"
+"349","albilanata",-99.5655222222222,17.113275,"herbarios",NA,"Albilanata"
+"350","albilanata",-98.4875,17.9658333333333,"herbarios",NA,"Albilanata"
+"351","albilanata",-96.6983666666667,16.8958555555556,"herbarios",NA,"Huauclilla"
+"352","haageana",-97.2436111111111,18.7258333333333,"herbarios",NA,"Acultingensis"
+"353","haageana",-97.7089722222222,17.7400833333333,"herbarios",NA,"M_conspicua"
+"354","haageana",-97.9954416666667,18.4875861111111,"herbarios",NA,"M_conspicua"
+"355","haageana",-97.54975,17.3341666666667,"herbarios",NA,"Oaxacana"
+"356","haageana",-97.4077777777778,19.3866666666667,"herbarios",NA,"Haageana"
+"357","haageana",-97.5241666666667,18.3061111111111,"herbarios",NA,"M_meissneri"
+"358","haageana",-97.471275,18.3357777777778,"herbarios",NA,"M_meissneri"
+"359","haageana",-97.4625,18.6236666666667,"herbarios",NA,"M_conspicua"
+"360","haageana",-97.4575,18.3347222222222,"herbarios",NA,"M_meissneri"
+"361","haageana",-97.1721388888889,17.57125,"herbarios",NA,"Oaxacana"
+"362","albilanata",-99.190316,19.313985,"gbs","Jardin Botanico","San_angelensis"
+"363","albilanata",-99.190316,19.313985,"gbs","Espacio escultorico tejido","San_angelensis"
+"364","haageana",-97.6491388888889,18.2133055555556,"gbs","CC027","M_conspicua"
+"365","haageana",-97.6491388888889,18.2133055555556,"gbs","CC027","M_conspicua"
+"366","haageana",-97.6956388888889,18.0843611111111,"gbs","CC028","M_conspicua"
+"367","haageana",-97.6956388888889,18.0843611111111,"gbs","CC028","M_conspicua"
+"368","albilanata",-97.2167222222222,17.4888055555556,"gbs","CC033","Oaxacana"
+"369","albilanata",-97.2167222222222,17.4888055555556,"gbs","CC033","Oaxacana"
+"370","albilanata",-97.2078888888889,17.4728055555556,"gbs","CC034","Oaxacana"
+"371","albilanata",-97.2078888888889,17.4728055555556,"gbs","CC034","Oaxacana"
+"372","albilanata",-97.0455,17.4365,"gbs","CC035","Oaxacana"
+"373","albilanata",-97.0455,17.4365,"gbs","CC035","Oaxacana"
+"374","albilanata",-97.1041666666667,17.45975,"gbs","CC038","Oaxacana"
+"375","albilanata",-97.1041666666667,17.45975,"gbs","CC038","Oaxacana"
+"376","albilanata",-97.2948333333333,17.2669166666667,"gbs","CC039","Oaxacana"
+"377","albilanata",-97.2948333333333,17.2669166666667,"gbs","CC039","Oaxacana"
+"378","haageana",-97.7016111111111,17.7289722222222,"gbs","CC045","M_conspicua"
+"379","haageana",-97.7016111111111,17.7289722222222,"gbs","CC045","M_conspicua"
+"380","haageana",-97.4596111111111,18.4473888888889,"gbs","CC023","M_conspicua"
+"381","haageana",-97.4596111111111,18.4473888888889,"gbs","CC023","M_conspicua"
+"382","haageana",-97.4596111111111,18.3333333333333,"gbs","CC024","M_meissneri"
+"383","haageana",-97.4935,18.2556666666667,"gbs","CC025","M_conspicua"
+"384","haageana",-97.4935,18.2556666666667,"gbs","CC025","M_conspicua"
+"385","haageana",-97.5009722222222,18.2879444444444,"gbs","CC026","M_meissneri"
+"386","haageana",-97.4393888888889,18.4021111111111,"gbs","CC030","M_conspicua"
+"387","haageana",-97.4393888888889,18.4021111111111,"gbs","CC030","M_conspicua"
+"388","haageana",-97.4451388888889,18.3870833333333,"gbs","CC031","M_meissneri"
+"389","haageana",-97.4451388888889,18.3870833333333,"gbs","CC031","M_meissneri"
+"390","haageana",-97.4374444444445,18.3578333333333,"gbs","CC032","M_meissneri"
+"391","haageana",-97.4374444444445,18.3578333333333,"gbs","CC032","M_meissneri"
+"392","haageana",-97.4187777777778,19.3877222222222,"gbs","CC020","Haageana"
+"393","haageana",-97.4187777777778,19.3877222222222,"gbs","CC020","Haageana"
+"394","haageana",-97.4187777777778,19.3877222222222,"gbs","CC020","Haageana"
+"395","haageana",-97.2881666666667,19.4956388888889,"gbs","CC021","Haageana"
+"396","haageana",-97.2881666666667,19.4956388888889,"gbs","CC021","Haageana"
+"397","haageana",-97.2881666666667,19.4956388888889,"gbs","CC021","Haageana"
+"398","haageana",-97.3821944444444,18.84725,"gbs","CC022","Haageana"
+"399","haageana",-97.3821944444444,18.84725,"gbs","CC022","Haageana"
+"400","haageana",-97.3821944444444,18.84725,"gbs","CC022","Haageana"
+"401","haageana",-97.2435,18.7583888888889,"gbs","CC029","Acultingensis"
+"402","haageana",-97.2435,18.7583888888889,"gbs","CC029","Acultingensis"
+"403","haageana",-97.2435,18.7583888888889,"gbs","CC029","Acultingensis"
+"404","albilanata",-97.0452222222222,17.4820555555556,"gbs","CC036","Huauclilla"
+"405","albilanata",-97.0452222222222,17.4820555555556,"gbs","CC036","Huauclilla"
+"406","albilanata",-97.0452222222222,17.4820555555556,"gbs","CC036","Huauclilla"
+"407","albilanata",-97.0601944444445,17.4676944444444,"gbs","CC037","Oaxacana"
+"408","albilanata",-96.9384166666667,17.3440833333333,"gbs","CC040","Oaxacana"
+"409","albilanata",-96.9384166666667,17.3440833333333,"gbs","CC040","Oaxacana"
+"410","albilanata",-96.9384166666667,17.3440833333333,"gbs","CC040","Oaxacana"
+"411","albilanata",-96.1010833333333,16.6702777777778,"gbs","CC043","Tehuantepec"
+"412","albilanata",-96.1010833333333,16.6702777777778,"gbs","CC043","Tehuantepec"
+"413","albilanata",-96.1010833333333,16.6702777777778,"gbs","CC043","Tehuantepec"
+"414","albilanata",-95.4535833333333,16.4033333333333,"gbs","CC044","Tehuantepec"
+"415","albilanata",-95.4535833333333,16.4033333333333,"gbs","CC044","Tehuantepec"
+"416","albilanata",-95.4535833333333,16.4033333333333,"gbs","CC044","Tehuantepec"
+"417","albilanata",-97.9785555555556,17.6515277777778,"gbs","CC046","Sto_domingo"
+"418","albilanata",-97.9785555555556,17.6515277777778,"gbs","CC046","Sto_domingo"
+"419","albilanata",-97.9785555555556,17.6515277777778,"gbs","CC046","Sto_domingo"
+"420","albilanata",-99.2570972222222,18.2557,"gbs","CC047","Albilanata"
+"421","albilanata",-103.924363888889,19.5797277777778,"gbs","M_reppen","Reppenhagenii"
+"422","albilanata",-94.9472222222222,16.5527777777778,"col_cactus",NA,"Tehuantepec"
+"423","haageana",-97.6391666666667,18.2855555555556,"col_cactus",NA,"M_conspicua"
+"424","haageana",-97.4436111111111,18.3955555555556,"col_cactus",NA,"M_meissneri"
+"425","haageana",-97.48,17.2522222222222,"col_cactus",NA,"Oaxacana"
+"426","haageana",-96.9355555555556,17.345,"col_cactus",NA,"Oaxacana"
+"427","haageana",-97.3338888888889,17.1558333333333,"col_cactus",NA,"Oaxacana"
+"428","haageana",-97.3494444444444,17.4633333333333,"col_cactus",NA,"Oaxacana"
+"429","haageana",-97.5055555555555,17.6383333333333,"col_cactus",NA,"Oaxacana"
+"430","haageana",-97.3763888888889,17.4286111111111,"col_cactus",NA,"Oaxacana"
+"431","haageana",-97.38,17.5494444444444,"col_cactus",NA,"Oaxacana"
+"432","haageana",-97.2502777777778,18.4466666666667,"col_cactus",NA,"Oaxacana"
+"433","haageana",-97.1994444444444,17.6358333333333,"col_cactus",NA,"Oaxacana"
+"434","haageana",-97.5369444444444,17.8013888888889,"col_cactus",NA,"Oaxacana"
+"435","haageana",-97.2194444444444,17.4583333333333,"col_cactus",NA,"Oaxacana"
+"436","haageana",-97.4430555555556,17.5094444444444,"col_cactus",NA,"Oaxacana"
+"437","haageana",-97.465,17.3372222222222,"col_cactus",NA,"Oaxacana"
+"438","haageana",-97.7416666666667,18.1783333333333,"col_cactus",NA,"M_conspicua"
+"439","haageana",-97.2602777777778,17.4461111111111,"col_cactus",NA,"Oaxacana"
+"440","haageana",-97.2602777777778,17.2827777777778,"col_cactus",NA,"Oaxacana"
+"441","haageana",-97.2602777777778,17.8369444444444,"col_cactus",NA,"Oaxacana"
+"442","haageana",-97.4872222222222,18.2252777777778,"col_cactus",NA,"M_conspicua"
+"443","haageana",-99.1180555555555,18.8563888888889,"col_cactus",NA,"San_angelensis"
+"444","haageana",-97.1761111111111,17.3330555555556,"col_cactus",NA,"Oaxacana"
+"445","haageana",-97.2672222222222,17.4063888888889,"col_cactus",NA,"Oaxacana"
+"446","haageana",-97.2266666666667,17.4858333333333,"col_cactus",NA,"Oaxacana"
+"447","haageana",-97.2302777777778,17.3563888888889,"col_cactus",NA,"Oaxacana"
+"448","haageana",-97.4011111111111,17.4880555555556,"col_cactus",NA,"Oaxacana"
+"449","haageana",-97.2605555555556,17.7258333333333,"col_cactus",NA,"Oaxacana"
+"450","haageana",-97.425,17.4247222222222,"col_cactus",NA,"Oaxacana"
+"451","haageana",-97.4744444444444,17.4225,"col_cactus",NA,"Oaxacana"
+"452","haageana",-97.3297222222222,17.5719444444444,"col_cactus",NA,"Oaxacana"
+"453","haageana",-97.3252777777778,17.6483333333333,"col_cactus",NA,"Oaxacana"
+"454","haageana",-97.1058333333333,17.3758333333333,"col_cactus",NA,"Oaxacana"
